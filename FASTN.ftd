@@ -3,8 +3,20 @@
 -- fastn.package: fifthtry.github.io/ms-template
 download-base-url: https://raw.githubusercontent.com/fifthtry/ms-template/main
 
--- fastn.dependency: fifthtry.github.io/doc-site as ds
--- fastn.dependency: fifthtry.github.io/bling as bling
+-- fastn.dependency: fifthtry.github.io/doc-site
+-- fastn.dependency: fifthtry.github.io/ms-docs
+-- fastn.dependency: fifthtry.github.io/wireframe-ms
 
--- fastn.auto-import: bling/chat as chat
--- fastn.auto-import: ds
+-- fastn.auto-import: fifthtry.github.io/doc-site as ds
+-- fastn.auto-import: fifthtry.github.io/ms-docs
+-- fastn.auto-import: fifthtry.github.io/wireframe-ms
+-- fastn.auto-import: fifthtry.github.io/ms-template/FASTN/config as my-ds
+-- fastn.auto-import: fifthtry.github.io/ms-template/assets
+
+
+
+
+-- fastn.sitemap:
+
+# Home: index.html
+- Master `hero` component: index.html
