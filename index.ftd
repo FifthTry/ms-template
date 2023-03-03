@@ -9,9 +9,9 @@
 
 -- wireframe-ms.hero: Title of the hero component
 cta-text-1: Get Started
-cta-link-1: link-to-get-started-page/
+cta-link-1: /
 cta-text-2: Shop now
-cta-link-2: link-to-shop-now/
+cta-link-2: /
 author: $wireframe-ms.amitu
 image: https://fifthtry.github.io/wireframe-ms/-/fifthtry.github.io/wireframe-ms/static/wireframes/image-icon.svg
 
