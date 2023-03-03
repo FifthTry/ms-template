@@ -1,7 +1,7 @@
 -- import: fastn
 
--- fastn.package: fifthtry.github.io/ms-template
-download-base-url: https://raw.githubusercontent.com/fifthtry/ms-template/main
+-- fastn.package: <user_name>.github.io/<repo_name>
+download-base-url: https://raw.githubusercontent.com/<user_name>/<repo_name>/main
 
 -- fastn.dependency: fifthtry.github.io/doc-site
 -- fastn.dependency: fifthtry.github.io/ms-docs
@@ -10,8 +10,8 @@ download-base-url: https://raw.githubusercontent.com/fifthtry/ms-template/main
 -- fastn.auto-import: fifthtry.github.io/doc-site as ds
 -- fastn.auto-import: fifthtry.github.io/ms-docs
 -- fastn.auto-import: fifthtry.github.io/wireframe-ms
--- fastn.auto-import: fifthtry.github.io/ms-template/FASTN/config as my-ds
--- fastn.auto-import: fifthtry.github.io/ms-template/assets
+-- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/config as my-ds
+-- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
 
 
 
