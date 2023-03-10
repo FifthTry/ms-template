@@ -1,0 +1,31 @@
+-- import: fifthtry.github.io/ms-docs/quote as quote-docs
+-- import: fifthtry.github.io/wireframe-ms/quote as wireframe-quote
+
+
+-- ds.page:
+
+-- quote-docs.quote-docs:
+
+-- wireframe-quote.charcoal: Amit Upadhyay
+label: CEO
+avatar: https://fifthtry.github.io/bling/-/fifthtry.github.io/bling/static/amitu.jpg
+logo: https://fifthtry.github.io/bling/-/fifthtry.github.io/bling/static/fifthtry.svg
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+tempor incididunt ut labore et dolore magna aliqua..
+
+-- wireframe-quote.marengo: Steve Jobs
+
+Your time is limited, so don't waste it living someone else's life. Don't 
+be trapped by dogma – which is living with the results of other people's 
+thinking.
+
+
+-- wireframe-quote.marengo-hug: Oprah Winfrey
+
+If you look at what you have in life, you'll always have more.
+If you look at what you don't have in life, you'll never have enough.
+
+-- end: quote-docs.quote-docs
+
+-- end: ds.page

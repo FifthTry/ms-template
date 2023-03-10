@@ -1,7 +1,6 @@
 -- import: fastn
 
 -- fastn.package: <user_name>.github.io/<repo_name>
-download-base-url: https://raw.githubusercontent.com/<user_name>/<repo_name>/main
 
 -- fastn.dependency: fifthtry.github.io/doc-site
 -- fastn.dependency: fifthtry.github.io/ms-docs
@@ -18,3 +17,5 @@ download-base-url: https://raw.githubusercontent.com/<user_name>/<repo_name>/mai
 
 # Home: index.html
 - Master `hero` component: hero/
+- Master `button` component: button/
+- Master `quote` component: quote/

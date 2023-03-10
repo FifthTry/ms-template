@@ -1,0 +1,30 @@
+-- import: fifthtry.github.io/ms-docs/hero as hero-docs
+-- import: fifthtry.github.io/wireframe-ms/hero as wireframe-hero
+-- import: <user_name>.github.io/<repo_name>/assets
+
+-- ds.page: 
+
+-- hero-docs.hero-docs:
+
+-- wireframe-hero.hero-without-image: Title of the hero component
+cta-text-1: Get Started
+cta-link-1: /
+cta-text-2: Shop now
+cta-link-2: /
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+incididunt ut labore et dolore magna.
+
+-- wireframe-hero.hero-with-image: Title of the hero component
+cta-text-1: Get Started
+cta-link-1: /
+cta-text-2: Shop now
+cta-link-2: /
+image: https://fifthtry.github.io/wireframe-ms/-/fifthtry.github.io/wireframe-ms/static/wireframes/image-icon.svg
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+incididunt ut labore et dolore magna.
+
+-- end: hero-docs.hero-docs
+
+-- end: ds.page
