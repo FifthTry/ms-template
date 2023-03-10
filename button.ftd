@@ -1,0 +1,26 @@
+-- import: fifthtry.github.io/ms-docs/button as button-docs
+-- import: fifthtry.github.io/wireframe-ms/button as wireframe-button
+
+
+
+
+
+-- ds.page:
+
+-- button-docs.button-docs:
+
+-- wireframe-button.button: PRIMARY
+role: primary
+large: true
+
+-- wireframe-button.button: SECONDARY
+role: secondary
+large: true
+
+-- wireframe-button.button: TERTIARY
+role: tertiary
+large: true
+
+-- end: button-docs.button-docs
+
+-- end: ds.page
